@@ -1,2 +1,2 @@
 # github_demo
-This repository is a demo of how to create a github repository
+This repository is a demo of how to create a github repository in an easy manner
